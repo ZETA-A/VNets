@@ -1,3 +1,4 @@
+package Algorithm;
 import java.util.Scanner;
 
 public class b2480 {
